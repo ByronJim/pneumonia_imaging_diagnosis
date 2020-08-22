@@ -1,0 +1,21 @@
+.fileInfo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: var(--white);
+}
+
+.fileInfo-preview {
+  max-width: 500px;
+  max-height: 280px;
+}
+
+.fileInfo-preview-image {
+  object-fit: contain;
+  object-position: center;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+
+
