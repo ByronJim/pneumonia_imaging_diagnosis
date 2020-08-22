@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-         <h1>Pneumonia Imaging Diagnosis</h1>
+         <h1>Imaging Diagnosis of Pneumonia</h1>
         <img src={logo} className="App-logo" alt="logo"/> 
       </header>
       <body className="App-body">
