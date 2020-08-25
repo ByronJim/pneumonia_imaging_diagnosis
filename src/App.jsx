@@ -13,10 +13,11 @@ function App() {
       <body className="App-body">
         <FormUpload />
         </body>
-    </div>
-    <footer>
+        <footer className="App-footer">
       <h5>Autor: Byron Jimenez Borja</h5>
     </footer>
+    </div>
+  
    
   );
   
