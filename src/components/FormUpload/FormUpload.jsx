@@ -74,7 +74,7 @@ function FormUpload() {
       return (
         <div className="dropContainer">
           <img src={uploadImage} alt="Illustration upload" />
-          <p>Select or Drag here</p>
+          <p>Select or Drag Here</p>
           <h3>To upload your image</h3>
         </div>
       )
@@ -83,7 +83,7 @@ function FormUpload() {
       return (
         <div className="dropContainer dragReject">
           <img src={close} alt="X icon" />
-          <h3>Archivo no soportado</h3>
+          <h3>File not supported</h3>
         </div>
       )
     }
@@ -91,8 +91,8 @@ function FormUpload() {
     return (
       <div className="dropContainer dragActive">
         <img src={uploadImage} alt="Illustration upload" />
-        <h3>Pulse aqui</h3>
-        <small>Para subir su imagen</small>
+        <h3>Select or Drag Here</h3>
+        <small>To upload your image</small>
       </div>
     )
   }

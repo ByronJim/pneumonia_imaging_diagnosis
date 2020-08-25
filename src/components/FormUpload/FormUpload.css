@@ -1,12 +1,11 @@
 .dropContainer {
-  width: 100%;
   max-width: 500px;
   background: var(--gray);
   border-radius: 4px;
   padding: 2rem 2rem;
   text-align: center;
   border: 3px solid transparent;
-  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 15px #06427eb0;
 }
 
 .dropContainer:hover {
@@ -17,7 +16,7 @@
 .dropContainer h3 {
   color: var(--red);
   font-weight: 800;
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-bottom: 0;
 }
 
@@ -51,12 +50,12 @@
   border: 0;
   outline: 0;
   padding: 12px 20px;
-  background-color: #f4f4f4;
+  background-color: #f4f4f46c;
   font-weight: 600;
   font-size: 1rem;
   margin: 0 auto;
   border-radius: 4px;
-  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 15px #06427eb0;
   cursor: pointer;
   position: relative;
   overflow: hidden;
