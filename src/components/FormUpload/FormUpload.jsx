@@ -74,8 +74,8 @@ function FormUpload() {
       return (
         <div className="dropContainer">
           <img src={uploadImage} alt="Illustration upload" />
-          <p>Pulse aqui</p>
-          <h3>Para subir su imagen </h3>
+          <p>Select or Drag here</p>
+          <h3>To upload your image</h3>
         </div>
       )
     }

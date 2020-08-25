@@ -11,6 +11,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo"/> 
       </header>
       <body className="App-body">
+        <h4>Upload a X-ray chest imagen to diagnose pneumonia</h4>
         <FormUpload />
         </body>
         <footer className="App-footer">
