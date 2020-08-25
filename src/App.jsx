@@ -14,6 +14,9 @@ function App() {
         <FormUpload />
         </body>
     </div>
+    <footer>
+      <h5>Autor: Byron Jimenez Borja</h5>
+    </footer>
    
   );
   
