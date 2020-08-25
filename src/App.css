@@ -25,10 +25,10 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #dde0e6ce;
 }
 .App-body {
-  background-color: #dde0e621;
+  background-color: #dde0e6ce;
   min-height: 77vh;
   display: flex;
   flex-direction: column;
@@ -45,7 +45,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(13px );
-  color: white;
+  color: #dde0e6ce;
 }
 .App-link {
   color: #61dafb;

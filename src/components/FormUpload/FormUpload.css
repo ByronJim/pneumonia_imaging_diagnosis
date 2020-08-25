@@ -26,8 +26,9 @@
 }
 
 .dropContainer p {
-  opacity: 0.3;
+  opacity: 0.6;
   font-weight: 600;
+  color:#282c34;
 }
 
 .dropContainer img {
